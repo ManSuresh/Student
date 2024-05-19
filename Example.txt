@@ -1,3 +1,7 @@
+
 CCreated a file for checking GIt conflict
+master
 made changes
 Adding data
+Adding data in localbranch file
+Sureshlocalbranch
