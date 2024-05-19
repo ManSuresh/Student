@@ -1,1 +1,2 @@
 CCreated a file for checking GIt conflict
+made changes
